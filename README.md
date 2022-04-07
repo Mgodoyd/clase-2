@@ -4,4 +4,4 @@
 
 ## Integrantes
 
-- Kenneth Riveiro
+- Mario Godoy
